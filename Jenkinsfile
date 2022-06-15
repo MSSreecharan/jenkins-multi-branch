@@ -1,7 +1,7 @@
 node ('built-in'){
     stage ('Continuous Download_loans')
     {
-        git 'https://github.com/MithunTechnologiesDevOps/maven-web-application.git'
+        git 'https://github.com/lillysree/jenkins-multi-branch.git'
     }
 stage('Contnuous Build_loans')
    {
